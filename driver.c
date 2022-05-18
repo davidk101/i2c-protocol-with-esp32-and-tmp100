@@ -1,7 +1,7 @@
 /*
  * 
  * Description: Implementing I2C protocol using a TMP100 temperature sensor and an ESP32 MCU to communicate with a remote device 
- * Author: David Kumar DDK170002
+ * Author: David Kumar 
  * 
  */
 
